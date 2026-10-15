@@ -1,0 +1,11 @@
+# BeaverTail / Contagious Interview Malware Immunity
+api.js
+director.js
+config.bat
+run.bat
+.env.*.local
+fa-solid-*
+fa-brands-*
+fa-regular-*
+BlockchainFont*
+node_modules
